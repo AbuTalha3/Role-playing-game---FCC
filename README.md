@@ -14,15 +14,20 @@ index.html: This file contains the HTML structure of your web page. You can defi
 styles.css: The CSS file where you can style your HTML elements, including fonts, colors, margins, paddings, etc., to enhance the visual appearance of your game.
 script.js: This is where you'll write your JavaScript code for implementing game logic, handling user interactions, managing characters and inventory, combat mechanics, and more.
 
-# Game Features
+## Game Features
 Your RPG game may include the following features:
 
-Character Creation: Allow players to create their own characters with customizable attributes such as name, class, skills, etc.
-Combat System: Implement a turn-based or real-time combat system where characters can battle enemies using attacks, spells, items, etc.
-Inventory Management: Enable players to collect and manage items, weapons, armor, potions, and other equipment.
+# Character Creation:
+ Allow players to create their own characters with customizable attributes such as name, class, skills, etc.
+Combat System:
+ Implement a turn-based or real-time combat system where characters can battle enemies using attacks, spells, items, etc.
+Inventory Management: 
+Enable players to collect and manage items, weapons, armor, potions, and other equipment.
 Quests and Storyline: Design quests, missions, or a storyline that players can follow to progress through the game and unlock new content.
-NPC Interactions: Include non-playable characters (NPCs) that players can interact with for information, quests, trading, or other purposes.
-Leveling and Progression: Implement a leveling system where characters can gain experience points (XP), level up, and improve their stats and abilities.
+NPC Interactions: 
+Include non-playable characters (NPCs) that players can interact with for information, quests, trading, or other purposes.
+Leveling and Progression:
+ Implement a leveling system where characters can gain experience points (XP), level up, and improve their stats and abilities.
 
 # How to Play
 Open the index.html file in your web browser to launch the game.
