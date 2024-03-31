@@ -8,3 +8,8 @@ To get started with this project, ensure you have a text editor or an integrated
 # Clone or download this repository to your local machine.
 Open the project directory in your preferred text editor or IDE.
 Modify the index.html, styles.css, and script.js files as needed to build your RPG game.
+
+# Project Structure
+index.html: This file contains the HTML structure of your web page. You can define the layout, headings, buttons, and other elements here.
+styles.css: The CSS file where you can style your HTML elements, including fonts, colors, margins, paddings, etc., to enhance the visual appearance of your game.
+script.js: This is where you'll write your JavaScript code for implementing game logic, handling user interactions, managing characters and inventory, combat mechanics, and more.
