@@ -14,7 +14,7 @@ index.html: This file contains the HTML structure of your web page. You can defi
 styles.css: The CSS file where you can style your HTML elements, including fonts, colors, margins, paddings, etc., to enhance the visual appearance of your game.
 script.js: This is where you'll write your JavaScript code for implementing game logic, handling user interactions, managing characters and inventory, combat mechanics, and more.
 
-Game Features
+# Game Features
 Your RPG game may include the following features:
 
 Character Creation: Allow players to create their own characters with customizable attributes such as name, class, skills, etc.
