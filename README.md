@@ -35,7 +35,7 @@ MDN Web Docs - JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScri
 W3Schools - JavaScript Tutorial: https://www.w3schools.com/js/
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENCE](./LICENSE) file for details.
 
 # Acknowledgements
 This project is inspired by the FCC curriculum and aims to provide a practical learning experience for JavaScript programming.
