@@ -19,9 +19,9 @@ Your RPG game may include the following features:
 
 # Character Creation:
  Allow players to create their own characters with customizable attributes such as name, class, skills, etc.
-Combat System:
+# Combat System:
  Implement a turn-based or real-time combat system where characters can battle enemies using attacks, spells, items, etc.
-Inventory Management: 
+# Inventory Management: 
 Enable players to collect and manage items, weapons, armor, potions, and other equipment.
 Quests and Storyline: Design quests, missions, or a storyline that players can follow to progress through the game and unlock new content.
 NPC Interactions: 
