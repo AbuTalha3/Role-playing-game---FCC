@@ -24,7 +24,7 @@ Quests and Storyline: Design quests, missions, or a storyline that players can f
 NPC Interactions: Include non-playable characters (NPCs) that players can interact with for information, quests, trading, or other purposes.
 Leveling and Progression: Implement a leveling system where characters can gain experience points (XP), level up, and improve their stats and abilities.
 
-How to Play
+# How to Play
 Open the index.html file in your web browser to launch the game.
 Follow on-screen instructions to create a character, explore the game world, battle enemies, complete quests, and advance through the game.
 Use the keyboard or mouse to navigate menus, select actions, manage inventory, and interact with NPCs.
