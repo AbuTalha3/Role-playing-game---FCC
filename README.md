@@ -28,3 +28,8 @@ Leveling and Progression: Implement a leveling system where characters can gain 
 Open the index.html file in your web browser to launch the game.
 Follow on-screen instructions to create a character, explore the game world, battle enemies, complete quests, and advance through the game.
 Use the keyboard or mouse to navigate menus, select actions, manage inventory, and interact with NPCs.
+
+# Resources
+FreeCodeCamp (FCC): https://www.freecodecamp.org/
+MDN Web Docs - JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+W3Schools - JavaScript Tutorial: https://www.w3schools.com/js/
