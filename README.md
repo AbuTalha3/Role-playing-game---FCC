@@ -33,3 +33,11 @@ Use the keyboard or mouse to navigate menus, select actions, manage inventory, a
 FreeCodeCamp (FCC): https://www.freecodecamp.org/
 MDN Web Docs - JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 W3Schools - JavaScript Tutorial: https://www.w3schools.com/js/
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgements
+This project is inspired by the FCC curriculum and aims to provide a practical learning experience for JavaScript programming.
+Special thanks to FreeCodeCamp for their valuable resources and tutorials on web development and programming.
+Feel free to explore, modify, and enhance this RPG project as you learn and improve your JavaScript skills. Happy coding!
