@@ -24,9 +24,9 @@ Your RPG game may include the following features:
 # Inventory Management: 
 Enable players to collect and manage items, weapons, armor, potions, and other equipment.
 Quests and Storyline: Design quests, missions, or a storyline that players can follow to progress through the game and unlock new content.
-NPC Interactions: 
+# NPC Interactions: 
 Include non-playable characters (NPCs) that players can interact with for information, quests, trading, or other purposes.
-Leveling and Progression:
+# Leveling and Progression:
  Implement a leveling system where characters can gain experience points (XP), level up, and improve their stats and abilities.
 
 # How to Play
