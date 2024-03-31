@@ -1,3 +1,10 @@
-# Role-playing-game---FCC
-JavaScript is a powerful scripting language that you can use to make web pages interactive. It's one of the core technologies of the web, along with HTML and CSS. All modern browsers support JavaScript.
-In this practice project, you'll learn fundamental programming concepts in JavaScript by coding your own Role Playing Game. You'll learn how to work with arrays, strings, objects, functions, loops, if/else statements, and more.
+# Role-Playing Game - FCC Practice Project
+Introduction
+This is a practice project designed to help you learn fundamental programming concepts in JavaScript by coding your own Role-Playing Game (RPG). Throughout this project, you will work with arrays, strings, objects, functions, loops, if/else statements, and more. The game will involve creating characters, battling enemies, managing inventory, and exploring a fictional world.
+
+Getting Started
+To get started with this project, ensure you have a text editor or an integrated development environment (IDE) installed on your computer. You'll also need a web browser to run and test your JavaScript code.
+
+Clone or download this repository to your local machine.
+Open the project directory in your preferred text editor or IDE.
+Modify the index.html, styles.css, and script.js files as needed to build your RPG game.
